@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1><em>Hi there 👋</em></h1>
 
 <!--
 **anuragrik/anuragrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Anurag and I'm an aspiring Full Stack Developer. Currently I am learning everything about web development with the help of online resources.
+
+<h1>Technologies and Tools</h1>
+<ul>
+<li>HTML</li>
+<li>CSS3</li>
+<li>JavaScript</li>
+</ul>
