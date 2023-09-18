@@ -22,4 +22,5 @@ My name is Anurag and I'm an aspiring Full Stack Developer. Currently I am learn
 <li>HTML5</li>
 <li>CSS3</li>
 <li>JavaScript</li>
+<li>React</li>
 </ul>
