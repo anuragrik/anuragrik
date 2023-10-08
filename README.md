@@ -19,8 +19,11 @@ My name is Anurag and I'm an aspiring Full Stack Developer. Currently I am learn
 
 <h1>Technologies and Tools</h1>
 <ul>
-<li>HTML5</li>
-<li>CSS3</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Bootstrap</li>
+<li>Sass</li>
+<li>Tailwind</li>
 <li>JavaScript</li>
 <li>React</li>
 </ul>
